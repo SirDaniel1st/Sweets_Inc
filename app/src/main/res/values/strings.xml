@@ -1,0 +1,103 @@
+<resources>
+    <string name="app_name">Sweets inc</string>
+
+    <string name="title_main">SWEETS INC.</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="about_us_text">
+        Sweets Inc. offers a home-style bakery\n
+        experience in Trinidad and Tobago.\n
+        Our vision is to create upscale,\n
+        quick-serve bakery with a focus\n
+        on simple and satisfying \n
+        desserts and baked goods.
+    </string>
+    <string name="order_now">ORDER NOW</string>
+
+    <!--CUPCAKES STRINGS-->
+    <string name="cupcake_text">Cupcakes</string>
+
+    <string name="cupcake_description">
+                Our cupcakes are wonderfully made with love and care. Choose from our three flavours and
+                our serving sizes and feel the love we put into each and everyone of our mini hearts
+            </string>
+
+    <string name="spinner_title">
+                Choose a Flavor:
+            </string>
+
+    <string name="spinner_size">
+                Choose a Size:
+            </string>
+
+    <string-array name="cupcake_flavors">
+        <item>Pineapple Rum</item>
+        <item>Dragonfruit Chocolate</item>
+        <item>Spiked Peanut</item>
+    </string-array>
+
+    <string-array name="cupcake_size">
+        <item>Single (5)</item>
+        <item>Family (12)</item>
+        <item>Party (24)</item>
+    </string-array>
+
+    <string name="cupcake_addtocart">Add Order to Cart</string>
+
+    <!--MACAROONS STRINGS-->
+    <string name="macaroons_text">Macaroons</string>
+    <string name="macaroons_description">
+                Enjoy our set of carefully crafted French Macaroons with maybe a glass of red wine
+                as you treat your taste buds and your senses to a trip to the home of these desserts,
+                Paris, France.
+            </string>
+    <string name="macaroons_spinner_title">
+                Choose a Flavor:
+            </string>
+    <string name="macaroons_spinner_size">
+                Choose a Size:
+            </string>
+    <string-array name="macaroons_flavors">
+        <item>Strawberries and Cream</item>
+        <item>Tonca Bean and Hazelnut</item>
+        <item>Tropical Bomb</item>
+    </string-array>
+    <string-array name="macaroons_size">
+        <item>Single (6)</item>
+        <item>Family (15)</item>
+        <item>Party (30)</item>
+    </string-array>
+
+    <string name="macaroons_addtocart">Add Order to Cart</string>
+
+
+    <!--cake STRINGS-->
+    <string name="cake_text">Cake</string>
+    <string name="cake_description">
+                        Feast your eyes and savour on our Specialty Cakes. Made from a place of happiness, our cakes are designed to bring you back to your grandmas
+                        selection of delightful and delicate sponges.
+                    </string>
+    <string name="cake_spinner_title">
+                        Choose a Flavor:
+                    </string>
+    <string name="cake_spinner_size">
+                        Choose tiers:
+                    </string>
+    <string-array name="cake_flavors">
+        <item>Chocolate Guiness</item>
+        <item>Strawberry Victorian</item>
+        <item>Earthly Carrot</item>
+    </string-array>
+    <string-array name="cake_size">
+        <item>Single tier</item>
+        <item>Double tier</item>
+        <item>Triple tier</item>
+    </string-array>
+
+    <string name="cake_addtocart">Add Order to Cart</string>
+
+
+    <!--CHECK OUT MENU -->
+    <string name="CheckoutMenu">Welcome to your Cart</string>
+    <string name="CheckoutText">Here is your current order for all the delicious items that you wanted: </string>
+    <string name="OrderID">This is your Order History</string>
+</resources>
